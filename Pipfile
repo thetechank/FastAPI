@@ -19,6 +19,7 @@ pytest-asyncio = "*"
 aiofiles = "*"
 jinja2 = "*"
 fastapi = {extras = ["standard"], version = "*"}
+alembic = "*"
 
 [dev-packages]
 
